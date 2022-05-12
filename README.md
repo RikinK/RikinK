@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RikinK
-- 👀 I’m interested in ... Programming
+- 👀 I’m interested in ... STEM
 - 🌱 I’m currently learning ... Coding
 - 💞️ I’m looking to collaborate on ... Anything
 
